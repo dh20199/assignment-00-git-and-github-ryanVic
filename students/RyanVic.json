@@ -1,0 +1,15 @@
+{
+  "firstName": "Ryan",
+  "lastName": "Hamilton",
+  "privateName": false,
+  "nickname": "",
+  "picture": "images/RyanVic.jpg",
+  "privatePicture": true,
+  "email": "ryanferruccio.hamilton@mail.utoronto.ca",
+  "privateEmail": true,
+  "github": "RyanVic",
+  "privateGithub": true,
+  "superpower" : "",
+  "academicinterests": "20th century Europe and modern politics"
+}
+
