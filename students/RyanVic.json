@@ -4,7 +4,7 @@
   "privateName": false,
   "nickname": "",
   "picture": "images/RyanVic.jpg",
-  "privatePicture": false,
+  "privatePicture": true,
   "email": "ryanferruccio.hamilton@mail.utoronto.ca",
   "privateEmail": true,
   "github": "RyanVic",
